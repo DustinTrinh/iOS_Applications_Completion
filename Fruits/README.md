@@ -6,27 +6,27 @@
 ### Onboarding Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/Fruits/DemoImg/intro1.png" />
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/Fruits/DemoImg/intro2.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/intro1.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/intro2.png" />
 </p>
 
 ### Fruits List View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/Fruits/DemoImg/fruitsList.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitsList.png" />
 </p>
 
 ### Fruit Details Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/Fruits/DemoImg/fruitDetail.png" />
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/Fruits/DemoImg/fruitDetail2.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitDetail.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitDetail2.png" />
 </p>
 
 ### Setting Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/Fruits/DemoImg/settings.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/settings.png" />
 </p>
 
 

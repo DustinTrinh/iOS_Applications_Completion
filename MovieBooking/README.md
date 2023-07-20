@@ -6,25 +6,25 @@ Translating Figma design to SwiftUI for educational purposes.
 ### Home View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/MovieBooking/DemoImg/home.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/MovieBooking/DemoImg/home.png" />
 </p>
 
 ### Movie Detail View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/MovieBooking/DemoImg/movieDetail.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/MovieBooking/DemoImg/movieDetail.png" />
 </p>
 
 ### Seats Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/MovieBooking/DemoImg/seatsView.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/MovieBooking/DemoImg/seatsView.png" />
 </p>
 
 ### Tickets View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/MovieBooking/DemoImg/tickets.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/MovieBooking/DemoImg/tickets.png" />
 </p>
 
 

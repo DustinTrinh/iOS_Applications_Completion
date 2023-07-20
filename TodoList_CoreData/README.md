@@ -6,25 +6,25 @@ Introducing a streamlined todo app that seamlessly integrates CoreData and Swift
 ### Home View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/TodoList_CoreData/DemoImg/home.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TodoList_CoreData/DemoImg/home.png" />
 </p>
 
 ### Add Task View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/TodoList_CoreData/DemoImg/addTask.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TodoList_CoreData/DemoImg/addTask.png" />
 </p>
 
 ### Tasks List Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/TodoList_CoreData/DemoImg/tasksList.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TodoList_CoreData/DemoImg/tasksList.png" />
 </p>
 
 ### Settings View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/tree/main/TodoList_CoreData/DemoImg/setting.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TodoList_CoreData/DemoImg/setting.png" />
 </p>
 
 
