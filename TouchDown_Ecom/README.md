@@ -6,25 +6,25 @@
 ### Home View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/home.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/home.png" width="400" height="600"/>
 </p>
 
 ### Items List View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/items.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/items.png" width="400" height="600"/>
 </p>
 
 ### Item Details Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/itemDetails.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/itemDetails.png" width="400" height="600"/>
 </p>
 
 ### Brands View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/brands.png" />
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/TouchDown_Ecom/DemoImg/brands.png" width="400" height="600"/>
 </p>
 
 
