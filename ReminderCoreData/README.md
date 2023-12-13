@@ -42,4 +42,3 @@
   <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/ReminderCoreData/DemoImg/search.png" width="400" height="800"/>
 </p>
 
-Credit to [Udemy Course](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/).
