@@ -6,7 +6,7 @@
 ### Home View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/ReminderCoreData/DemoImg/home.png" width="400" height="600"/>
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/ReminderCoreData/DemoImg/home.png" width="400" height="1000"/>
 </p>
 
 ### Add Reminder List
