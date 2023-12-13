@@ -6,27 +6,27 @@
 ### Onboarding Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/intro1.png" width="400" height="600"/>
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/intro2.png" width="400" height="600"/>
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/intro1.png" width="400" height="800"/>
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/intro2.png" width="400" height="800"/>
 </p>
 
 ### Fruits List View
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitsList.png" width="400" height="600"/>
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitsList.png" width="400" height="800"/>
 </p>
 
 ### Fruit Details Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitDetail.png" width="400" height="600"/>
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitDetail2.png" width="400" height="600"/>
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitDetail.png" width="400" height="800"/>
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/fruitDetail2.png" width="400" height="800"/>
 </p>
 
 ### Setting Views
 
 <p align="center">
-  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/settings.png" width="400" height="600"/>
+  <img src="https://github.com/DustinTrinh/iOS_Applications_Completion/blob/main/Fruits/DemoImg/settings.png" width="400" height="800"/>
 </p>
 
 
